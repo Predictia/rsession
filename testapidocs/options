@@ -1,0 +1,26 @@
+-classpath
+'/home/kktuax/workspaces/vvp/Rsession/target/classes:/home/kktuax/workspaces/vvp/Rsession/target/test-classes:/home/kktuax/.m2/repository/org/rosuda/REngine/Rserve/1.8.1/Rserve-1.8.1.jar:/home/kktuax/.m2/repository/com/github/yannrichet/JMathArray/1.0/JMathArray-1.0.jar:/home/kktuax/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/home/kktuax/.m2/repository/gov/nist/math/jama/1.0.3/jama-1.0.3.jar:/home/kktuax/.m2/repository/org/rosuda/REngine/REngine/2.1.0/REngine-2.1.0.jar:/home/kktuax/.m2/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar:/home/kktuax/.m2/repository/junit/junit/4.0/junit-4.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/kktuax/workspaces/vvp/Rsession/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2015. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/kktuax/workspaces/vvp/Rsession/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'rsession 1.8.2 Test API'
+-link
+'../apidocs'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/home/kktuax/workspaces/vvp/Rsession/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'rsession 1.8.2 Test API'
